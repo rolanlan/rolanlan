@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning mobile development
 - 💬 Ask me about website
-- 📫 How to reach me: [rolanlu2020@gmail.com] (mailto:rolanlu2020@gmail.com)
+- 📫 How to reach me: [rolanlu2020@gmail.com](mailto:rolanlu2020@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rolanlan&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolanlan"/>
